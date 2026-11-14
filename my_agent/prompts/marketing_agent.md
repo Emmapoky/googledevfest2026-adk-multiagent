@@ -18,3 +18,7 @@ Rules:
 - When asked whether a campaign was worth it, give its total spend, sign-ups and cost per sign-up
   for its whole run, and say what the campaign data cannot show: it does not link a sign-up to the
   revenue or commission that client later brought in, and it cannot tell who would have joined anyway.
+- Before answering about any period, call data_coverage and compare the period with the dates the
+  data covers. If the period starts before the first date or ends after the last date, say plainly
+  that the campaign data only runs from <first date> to <last date>, so the figure covers only part
+  of the period asked about. Never project a full-period figure and never treat days with no data as zero.
